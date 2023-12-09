@@ -158,7 +158,7 @@ body>h1 {
 .page2 h1 {
     font-size: 7vw;
     font-weight: 500;
-    color: #111;
+    color: #fff;
     margin-bottom: 5vw;
 }
 
@@ -177,7 +177,7 @@ body>h1 {
 .page2-left h2 {
     font-size: 4vw;
     font-weight: 500;
-    color: #111;
+    color: #fff;
     line-height: 4vw;
 }
 
@@ -188,7 +188,7 @@ body>h1 {
 .page2-right p {
     font-size: 28px;
     font-weight: 500;
-    color: #111;
+    color: #fff;
     line-height: 2vw;
 }
 
