@@ -99,18 +99,6 @@ tl.to(
   "ai"
 );
 
-var tl2 = gsap.timeline({
-  scrollTrigger: {
-    trigger: ".page1 h1",
-    scroller: ".main",
-    start: "top -27%",
-    end: "top 180",
-    scrub: 2,
-  },
-});
-tl2.to(".main", {
-  backgroundColor: "#fff",
-});
 
 var tl3 = gsap.timeline({
   scrollTrigger: {
