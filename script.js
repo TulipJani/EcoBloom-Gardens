@@ -99,7 +99,6 @@ tl.to(
   "ai"
 );
 
-
 var tl3 = gsap.timeline({
   scrollTrigger: {
     trigger: ".page1 h1",
